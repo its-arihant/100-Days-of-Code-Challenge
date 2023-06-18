@@ -1,3 +1,4 @@
+#Palindrome number
 def num(n):
     rev=0
     temp=n
@@ -12,7 +13,10 @@ def num(n):
     
 n=int(input("Enter a number:"))
 num(n) 
+# time complexity = theta(number of digits of a number)
 
+#Recursive functions
+#1. factorial of a number
 def fact(n):
     if(n==0 or n==1):
         return 1
@@ -21,4 +25,7 @@ def fact(n):
 
 a=int(input("Enter a number:"))
 print("The factorial of",a,"is:",fact(a))
+#recurrence relation = T(n-1) + theta(1) 
+#time complexity = O(n)
+
 
