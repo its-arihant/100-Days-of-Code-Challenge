@@ -18,7 +18,7 @@ def prime(n):
     if (n==1):
         return False
     
-    i=1
+    i=2
     while(i*i<n):
         if (n%i==0):
             return False
@@ -27,3 +27,4 @@ def prime(n):
 
 n=int(input("Enter a number:"))
 print(prime(n))
+# Time complexity = O(square root(n))
