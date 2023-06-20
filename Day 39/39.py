@@ -1,4 +1,4 @@
-# Trailing zeroes in factorial
+# Trailing zeros in factorial
 def countzeroes(n):
     res=0
     i=5
@@ -10,7 +10,7 @@ def countzeroes(n):
 a=int(input("Enter a number:"))
 print("The trailing zeroes in factorial of",a,"are:",countzeroes(a)) 
 
-# for finding the trailing zeroes we can simply count the number of 2's and 5's
+# for finding the trailing zeros we can simply count the number of 2's and 5's
 # The number of 5's will be less than the number of 2's
 # so we only count number of 5's
 
