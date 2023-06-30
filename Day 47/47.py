@@ -5,4 +5,4 @@ class Solution():
         return num1+num2
     
 a=Solution()
-print(a.sum(36,50))
+print(a.sum(-55,50))
