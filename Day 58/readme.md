@@ -1,5 +1,5 @@
 # DAY58
-Hey, #connections I'm thrilled to share that I've completed my DAY 58 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- "1979 Find Greatest Common Divisor of Array"
+Hey, #connections I'm thrilled to share that I've completed my DAY 58 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- "1748 Sum of Unique Elements"
 
 I'm so glad to participate in this challenge and push myself to become a better coder. It's amazing what a little bit of focus and determination can do. I can't wait to see what the next 42 days bring.
 
