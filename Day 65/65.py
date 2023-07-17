@@ -1,4 +1,4 @@
-# 2544. Alternating Digit S
+# 2544. Alternating Digit Sum
 
 class Solution():
     def alternateDigitSum(self, n):
