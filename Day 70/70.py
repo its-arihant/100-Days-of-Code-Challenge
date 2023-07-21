@@ -10,3 +10,8 @@ class Solution():
 
 a=Solution()
 a.leader([8,2,3])
+# Time Complexity = O(n)
+
+                    
+
+                       
