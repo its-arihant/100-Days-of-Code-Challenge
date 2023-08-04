@@ -1,5 +1,5 @@
 # DAY83
-Hey, #connections I'm thrilled to share that I've completed my DAY 82 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- "2000. Reverse Prefix of Word"
+Hey, #connections I'm thrilled to share that I've completed my DAY 83 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- "2000. Reverse Prefix of Word"
 
 I'm so glad to participate in this challenge and push myself to become a better coder. It's amazing what a little bit of focus and determination can do. I can't wait to see what the next 17 days bring.
 
