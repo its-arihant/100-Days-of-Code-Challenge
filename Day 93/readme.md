@@ -1,5 +1,5 @@
 # DAY93
-Hey, #connections I'm thrilled to share that I've completed my DAY 93 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- ""
+Hey, #connections I'm thrilled to share that I've completed my DAY 93 of the #100DaysOfCode challenge. Today I solved one leetcode problem:- "1450 Number of Students Doing Homework at a Given Time"
 
 I'm so glad to participate in this challenge and push myself to become a better coder. It's amazing what a little bit of focus and determination can do. I can't wait to see what the next 7 days bring.
 
